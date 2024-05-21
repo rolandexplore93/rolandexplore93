@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ## Skills
 
 - 💻 Programming Languages: Javascript, C#
-- ⚙️ Frameworks: Node.js, React, ASP.NET Core
-- 🛠 Tools: Render, Azure
+- ⚙️ Frameworks: Node.js, ASP.NET Core, Express.js, React
+- 🛠 Tools: Render, Azure, Netlify
 - 🗄️ Databases: MongoDB, MySQL, MSSQL
