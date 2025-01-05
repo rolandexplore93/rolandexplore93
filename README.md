@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Roland 👋
 
-- 👨‍💻 I'm a backend software engineer
+- 👨‍💻 I'm a backend developer | Web Developer | Fullstack Engineer
 - 🔭 I’m currently working on building products
 - 🌱 I’m looking to collaborate on value-centric projects
 - 📫 How to reach me: 
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ## Skills
 
 - 💻 Programming Languages: C#, .NET Core, Javascript
-- ⚙️ Frameworks: ASP.NET Core 8, .NET Core 6, Express.js, React, Node.js
-- 🛠 Tools: Azure, Render, Azure, Netlify
-- 🗄️ Databases: Microsfot SQL, MySQL, MongoDB
+- ⚙️ Frameworks: ASP.NET 8, .NET  6, Express.js, React, Node.js
+- 🛠 Deployment: Azure, Render, Docker, kubernetes
+- 🗄️ Databases: Microsoft SQL Server, Entity Framework Core, MySQL, MongoDB
