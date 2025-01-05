@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Roland 👋
 
-- 👨‍💻 I'm a backend developer | Web Developer | Fullstack Engineer
+- 👨‍💻 I'm a Backend Developer | Web Developer | .NET Developer
 - 🔭 I’m currently working on building products
 - 🌱 I’m looking to collaborate on value-centric projects
 - 📫 How to reach me: 
